@@ -9,3 +9,13 @@ This dataset consists of 2015 flight delays and cancellations and information on
 
 This Tableau Dashboard provides a summary of the data, and provides insights into the reasons and patterns observed in delayed and canceled flights.
 
+## About Dataset
+
+This dataset is taken from Kaggle - https://www.kaggle.com/usdot/flight-delays/data
+
+The U.S. Department of Transportation's (DOT) Bureau of Transportation Statistics tracks the on-time performance of domestic flights operated by large air carriers. Summary information on the number of on-time, delayed, canceled, and diverted flights is published in DOT's monthly Air Travel Consumer Report and in this dataset of 2015 flight delays and cancellations.
+
+## Summary
+![Summary](https://github.com/shahaastha08/Flight-Delay-and-Cancellations/assets/37699951/5afd01d3-e3a0-49c7-8040-396f8d9bd268)
+
+
